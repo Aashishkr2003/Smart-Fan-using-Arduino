@@ -11,6 +11,6 @@ transmission of temperature, humidity, and checksum bits. The microcontroller de
 physical units. This reliable protocol enables accurate temperature and humidity monitoring in diverse applications.
 
 ## Use Cases
-Industrial: Protection of goods in warehouses, optimization of growing conditions in greenhouses, and maintenance of optimal conditions in data centers.
-Residential: Personalized comfort in bedrooms, living rooms, and moisture control in bathrooms.
-Educational: Comfortable learning environments in classrooms with improved air quality.
+## Industrial: Protection of goods in warehouses, optimization of growing conditions in greenhouses, and maintenance of optimal conditions in data centers.
+## Residential: Personalized comfort in bedrooms, living rooms, and moisture control in bathrooms.
+## Educational: Comfortable learning environments in classrooms with improved air quality.
